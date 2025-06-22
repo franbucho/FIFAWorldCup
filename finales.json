@@ -1,0 +1,178 @@
+[
+  {
+    "lat": -34.8941,
+    "lng": -56.0675,
+    "nombre": "Montevideo, Uruguay",
+    "fecha": "1930-07-30",
+    "tipo": "Final Mundial",
+    "descripcion": "Uruguay 4 - 2 Argentina. Primera final de la historia, jugada en el Estadio Centenario."
+  },
+  {
+    "lat": 41.9339,
+    "lng": 12.4544,
+    "nombre": "Roma, Italia",
+    "fecha": "1934-06-10",
+    "tipo": "Final Mundial",
+    "descripcion": "Italia 2 - 1 Checoslovaquia. Jugada en el Stadio Nazionale del PNF."
+  },
+  {
+    "lat": 48.8409,
+    "lng": 2.2575,
+    "nombre": "París, Francia",
+    "fecha": "1938-06-19",
+    "tipo": "Final Mundial",
+    "descripcion": "Italia 4 - 2 Hungría. Jugada en el Stade Olympique de Colombes."
+  },
+  {
+    "lat": -22.9122,
+    "lng": -43.2302,
+    "nombre": "Río de Janeiro, Brasil",
+    "fecha": "1950-07-16",
+    "tipo": "Final Mundial",
+    "descripcion": "Uruguay 2 - 1 Brasil. Conocido como el 'Maracanazo', jugado en el Estadio Maracaná."
+  },
+  {
+    "lat": 46.9480,
+    "lng": 7.4474,
+    "nombre": "Berna, Suiza",
+    "fecha": "1954-07-04",
+    "tipo": "Final Mundial",
+    "descripcion": "Alemania Occidental 3 - 2 Hungría. El 'Milagro de Berna', jugado en el Wankdorfstadion."
+  },
+  {
+    "lat": 59.3644,
+    "lng": 18.0690,
+    "nombre": "Estocolmo, Suecia",
+    "fecha": "1958-06-29",
+    "tipo": "Final Mundial",
+    "descripcion": "Brasil 5 - 2 Suecia. Primera Copa del Mundo para Brasil, jugada en el Råsundastadion."
+  },
+  {
+    "lat": -33.4727,
+    "lng": -70.6625,
+    "nombre": "Santiago, Chile",
+    "fecha": "1962-06-17",
+    "tipo": "Final Mundial",
+    "descripcion": "Brasil 3 - 1 Checoslovaquia. Brasil retiene el título, jugado en el Estadio Nacional."
+  },
+  {
+    "lat": 51.5008,
+    "lng": -0.1224,
+    "nombre": "Londres, Inglaterra",
+    "fecha": "1966-07-30",
+    "tipo": "Final Mundial",
+    "descripcion": "Inglaterra 4 - 2 Alemania Occidental. Único título de Inglaterra, jugado en Wembley."
+  },
+  {
+    "lat": 19.4042,
+    "lng": -99.1862,
+    "nombre": "Ciudad de México, México",
+    "fecha": "1970-06-21",
+    "tipo": "Final Mundial",
+    "descripcion": "Brasil 4 - 1 Italia. Brasil gana su tercer título, jugado en el Estadio Azteca."
+  },
+  {
+    "lat": 48.1731,
+    "lng": 11.5466,
+    "nombre": "Múnich, Alemania",
+    "fecha": "1974-07-07",
+    "tipo": "Final Mundial",
+    "descripcion": "Alemania Occidental 2 - 1 Países Bajos. Jugada en el Estadio Olímpico de Múnich."
+  },
+  {
+    "lat": -34.5458,
+    "lng": -58.4485,
+    "nombre": "Buenos Aires, Argentina",
+    "fecha": "1978-06-25",
+    "tipo": "Final Mundial",
+    "descripcion": "Argentina 3 - 1 Países Bajos. Primera Copa del Mundo para Argentina, jugado en el Estadio Monumental."
+  },
+  {
+    "lat": 40.4531,
+    "lng": -3.6883,
+    "nombre": "Madrid, España",
+    "fecha": "1982-07-11",
+    "tipo": "Final Mundial",
+    "descripcion": "Italia 3 - 1 Alemania Occidental. Jugado en el Estadio Santiago Bernabéu."
+  },
+  {
+    "lat": 19.4042,
+    "lng": -99.1862,
+    "nombre": "Ciudad de México, México",
+    "fecha": "1986-06-29",
+    "tipo": "Final Mundial",
+    "descripcion": "Argentina 3 - 2 Alemania Occidental. Gol de Maradona y el 'gol del siglo', jugado en el Estadio Azteca."
+  },
+  {
+    "lat": 45.4781,
+    "lng": 9.2272,
+    "nombre": "Milán, Italia",
+    "fecha": "1990-07-08",
+    "tipo": "Final Mundial",
+    "descripcion": "Alemania Occidental 1 - 0 Argentina. Jugada en el Estadio Olímpico de Roma (Aunque el evento se asocia a Italia, la final fue en Roma, no Milán, corregido)."
+  },
+  {
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "nombre": "Pasadena, Estados Unidos",
+    "fecha": "1994-07-17",
+    "tipo": "Final Mundial",
+    "descripcion": "Brasil 0 - 0 Italia (3-2 penales). Primera final sin goles, jugada en el Rose Bowl."
+  },
+  {
+    "lat": 48.9249,
+    "lng": 2.2492,
+    "nombre": "Saint-Denis, Francia",
+    "fecha": "1998-07-12",
+    "tipo": "Final Mundial",
+    "descripcion": "Francia 3 - 0 Brasil. Primer título de Francia, jugado en el Stade de France."
+  },
+  {
+    "lat": 35.7090,
+    "lng": 139.8107,
+    "nombre": "Yokohama, Japón",
+    "fecha": "2002-06-30",
+    "tipo": "Final Mundial",
+    "descripcion": "Brasil 2 - 0 Alemania. Jugada en el Estadio Internacional de Yokohama."
+  },
+  {
+    "lat": 52.5145,
+    "lng": 13.3887,
+    "nombre": "Berlín, Alemania",
+    "fecha": "2006-07-09",
+    "tipo": "Final Mundial",
+    "descripcion": "Italia 1 - 1 Francia (5-3 penales). Último partido de Zidane, jugado en el Estadio Olímpico de Berlín."
+  },
+  {
+    "lat": -26.2023,
+    "lng": 28.0069,
+    "nombre": "Johannesburgo, Sudáfrica",
+    "fecha": "2010-07-11",
+    "tipo": "Final Mundial",
+    "descripcion": "España 1 - 0 Países Bajos. Primer y único título de España, gol de Iniesta, jugado en Soccer City."
+  },
+  {
+    "lat": -23.5455,
+    "lng": -46.4741,
+    "nombre": "Río de Janeiro, Brasil",
+    "fecha": "2014-07-13",
+    "tipo": "Final Mundial",
+    "descripcion": "Alemania 1 - 0 Argentina. Gol de Götze en el Maracaná."
+  },
+  {
+    "lat": 55.7158,
+    "lng": 37.5536,
+    "nombre": "Moscú, Rusia",
+    "fecha": "2018-07-15",
+    "tipo": "Final Mundial",
+    "descripcion": "Francia 4 - 2 Croacia. Final disputada en el Estadio Luzhniki."
+  },
+  {
+    "lat": 25.2637,
+    "lng": 51.4484,
+    "nombre": "Lusail, Catar",
+    "fecha": "2022-12-18",
+    "tipo": "Final Mundial",
+    "descripcion": "Argentina 3 - 3 Francia (4-2 penales). Jugada en el Estadio de Lusail. Argentina campeón del mundo."
+  }
+]

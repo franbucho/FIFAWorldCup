@@ -1,0 +1,1484 @@
+[
+  {
+    "nombre": "Estadio Centenario",
+    "ciudad": "Montevideo",
+    "pais": "Uruguay",
+    "lat": -34.8941,
+    "lng": -56.0675,
+    "mundiales_albergados": [1930]
+  },
+  {
+    "nombre": "Estadio Pocitos",
+    "ciudad": "Montevideo",
+    "pais": "Uruguay",
+    "lat": -34.9081,
+    "lng": -56.1558,
+    "mundiales_albergados": [1930],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "Estadio Gran Parque Central",
+    "ciudad": "Montevideo",
+    "pais": "Uruguay",
+    "lat": -34.8966,
+    "lng": -56.1648,
+    "mundiales_albergados": [1930]
+  },
+  {
+    "nombre": "Stadio Nazionale PNF (ahora Stadio Flaminio)",
+    "ciudad": "Roma",
+    "pais": "Italia",
+    "lat": 41.9339,
+    "lng": 12.4544,
+    "mundiales_albergados": [1934]
+  },
+  {
+    "nombre": "Stadio San Siro (Giuseppe Meazza)",
+    "ciudad": "Milán",
+    "pais": "Italia",
+    "lat": 45.4781,
+    "lng": 9.2272,
+    "mundiales_albergados": [1934, 1990]
+  },
+  {
+    "nombre": "Stadio Littorio (ahora Stadio Renato Dall'Ara)",
+    "ciudad": "Bolonia",
+    "pais": "Italia",
+    "lat": 44.4842,
+    "lng": 11.3197,
+    "mundiales_albergados": [1934]
+  },
+  {
+    "nombre": "Stadio Giovanni Berta (ahora Stadio Artemio Franchi)",
+    "ciudad": "Florencia",
+    "pais": "Italia",
+    "lat": 43.7808,
+    "lng": 11.2721,
+    "mundiales_albergados": [1934, 1990]
+  },
+  {
+    "nombre": "Stadio Luigi Ferraris",
+    "ciudad": "Génova",
+    "pais": "Italia",
+    "lat": 44.4169,
+    "lng": 8.9483,
+    "mundiales_albergados": [1934, 1990]
+  },
+  {
+    "nombre": "Stadio Giorgio Ascarelli (demolido)",
+    "ciudad": "Nápoles",
+    "pais": "Italia",
+    "lat": 40.8522,
+    "lng": 14.2497,
+    "mundiales_albergados": [1934],
+    "notas": "Demolido."
+  },
+  {
+    "nombre": "Stadio Littorio (ahora Stadio Libero Liberati)",
+    "ciudad": "Trieste",
+    "pais": "Italia",
+    "lat": 45.6569,
+    "lng": 13.7917,
+    "mundiales_albergados": [1934],
+    "notas": "Nombre actual Stadio Nereo Rocco"
+  },
+  {
+    "nombre": "Stadio Benito Mussolini (ahora Stadio Olimpico Grande Torino)",
+    "ciudad": "Turín",
+    "pais": "Italia",
+    "lat": 45.0328,
+    "lng": 7.6569,
+    "mundiales_albergados": [1934]
+  },
+  {
+    "nombre": "Stade Olympique de Colombes",
+    "ciudad": "Colombes (París)",
+    "pais": "Francia",
+    "lat": 48.9209,
+    "lng": 2.2478,
+    "mundiales_albergados": [1938]
+  },
+  {
+    "nombre": "Parc des Princes",
+    "ciudad": "París",
+    "pais": "Francia",
+    "lat": 48.8414,
+    "lng": 2.2530,
+    "mundiales_albergados": [1938, 1998]
+  },
+  {
+    "nombre": "Stade Vélodrome",
+    "ciudad": "Marsella",
+    "pais": "Francia",
+    "lat": 43.2697,
+    "lng": 5.3957,
+    "mundiales_albergados": [1938, 1998]
+  },
+  {
+    "nombre": "Stade de la Meinau",
+    "ciudad": "Estrasburgo",
+    "pais": "Francia",
+    "lat": 48.5583,
+    "lng": 7.7608,
+    "mundiales_albergados": [1938]
+  },
+  {
+    "nombre": "Stade Chapou (demolido)",
+    "ciudad": "Toulouse",
+    "pais": "Francia",
+    "lat": 43.6067,
+    "lng": 1.4429,
+    "mundiales_albergados": [1938],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "Stade Olympique de Bordeaux (Parc Lescure)",
+    "ciudad": "Burdeos",
+    "pais": "Francia",
+    "lat": 44.8239,
+    "lng": -0.5972,
+    "mundiales_albergados": [1938],
+    "notas": "Actual Stade Chaban-Delmas."
+  },
+  {
+    "nombre": "Stade du Fort Carré",
+    "ciudad": "Antibes",
+    "pais": "Francia",
+    "lat": 43.5855,
+    "lng": 7.1270,
+    "mundiales_albergados": [1938]
+  },
+  {
+    "nombre": "Stade Cavée Verte (demolido)",
+    "ciudad": "Le Havre",
+    "pais": "Francia",
+    "lat": 49.5083,
+    "lng": 0.1264,
+    "mundiales_albergados": [1938],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "Stade Victor Boucquey (demolido)",
+    "ciudad": "Lille",
+    "pais": "Francia",
+    "lat": 50.6217,
+    "lng": 3.0642,
+    "mundiales_albergados": [1938],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "Estadio Maracaná",
+    "ciudad": "Río de Janeiro",
+    "pais": "Brasil",
+    "lat": -22.9122,
+    "lng": -43.2302,
+    "mundiales_albergados": [1950, 2014]
+  },
+  {
+    "nombre": "Estádio do Pacaembu",
+    "ciudad": "São Paulo",
+    "pais": "Brasil",
+    "lat": -23.5471,
+    "lng": -46.6669,
+    "mundiales_albergados": [1950]
+  },
+  {
+    "nombre": "Estádio Independência",
+    "ciudad": "Belo Horizonte",
+    "pais": "Brasil",
+    "lat": -19.9142,
+    "lng": -43.9148,
+    "mundiales_albergados": [1950]
+  },
+  {
+    "nombre": "Estádio Durival de Britto e Silva",
+    "ciudad": "Curitiba",
+    "pais": "Brasil",
+    "lat": -25.4372,
+    "lng": -49.2558,
+    "mundiales_albergados": [1950]
+  },
+  {
+    "nombre": "Estádio dos Eucaliptos (demolido)",
+    "ciudad": "Porto Alegre",
+    "pais": "Brasil",
+    "lat": -30.0560,
+    "lng": -51.2290,
+    "mundiales_albergados": [1950],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "Estádio Ilha do Retiro",
+    "ciudad": "Recife",
+    "pais": "Brasil",
+    "lat": -8.0620,
+    "lng": -34.9048,
+    "mundiales_albergados": [1950]
+  },
+  {
+    "nombre": "Wankdorfstadion (demolido, ahora Stade de Suisse)",
+    "ciudad": "Berna",
+    "pais": "Suiza",
+    "lat": 46.9610,
+    "lng": 7.4649,
+    "mundiales_albergados": [1954],
+    "notas": "Demolido y reconstruido en el mismo lugar."
+  },
+  {
+    "nombre": "Hardturm (demolido)",
+    "ciudad": "Zúrich",
+    "pais": "Suiza",
+    "lat": 47.3875,
+    "lng": 8.5086,
+    "mundiales_albergados": [1954],
+    "notas": "Demolido. Futuro estadio en construcción."
+  },
+  {
+    "nombre": "St. Jakob-Park (anteriormente St. Jakob-Stadion)",
+    "ciudad": "Basilea",
+    "pais": "Suiza",
+    "lat": 47.5501,
+    "lng": 7.6212,
+    "mundiales_albergados": [1954]
+  },
+  {
+    "nombre": "Stade Olympique de la Pontaise",
+    "ciudad": "Lausana",
+    "pais": "Suiza",
+    "lat": 46.5298,
+    "lng": 6.6346,
+    "mundiales_albergados": [1954]
+  },
+  {
+    "nombre": "Cornaredo Stadium",
+    "ciudad": "Lugano",
+    "pais": "Suiza",
+    "lat": 46.0100,
+    "lng": 8.9560,
+    "mundiales_albergados": [1954]
+  },
+  {
+    "nombre": "Råsundastadion (demolido)",
+    "ciudad": "Solna (Estocolmo)",
+    "pais": "Suecia",
+    "lat": 59.3644,
+    "lng": 18.0690,
+    "mundiales_albergados": [1958],
+    "notas": "Demolido. Sustituido por Friends Arena."
+  },
+  {
+    "nombre": "Nya Ullevi",
+    "ciudad": "Gotemburgo",
+    "pais": "Suecia",
+    "lat": 57.7077,
+    "lng": 11.9774,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Malmö Stadion",
+    "ciudad": "Malmö",
+    "pais": "Suecia",
+    "lat": 55.5847,
+    "lng": 12.9984,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Järnvallen",
+    "ciudad": "Sandviken",
+    "pais": "Suecia",
+    "lat": 60.6277,
+    "lng": 16.7877,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Ryavallen",
+    "ciudad": "Borås",
+    "pais": "Suecia",
+    "lat": 57.7126,
+    "lng": 12.9159,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Eyravallen",
+    "ciudad": "Örebro",
+    "pais": "Suecia",
+    "lat": 59.2730,
+    "lng": 15.2090,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Idrottsparken (Norrköping)",
+    "ciudad": "Norrköping",
+    "pais": "Suecia",
+    "lat": 58.5900,
+    "lng": 16.1869,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Rimnersvallen",
+    "ciudad": "Uddevalla",
+    "pais": "Suecia",
+    "lat": 58.3541,
+    "lng": 11.9443,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Tunavallen",
+    "ciudad": "Eskilstuna",
+    "pais": "Suecia",
+    "lat": 59.3800,
+    "lng": 16.5160,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Olympia (Helsingborg)",
+    "ciudad": "Helsingborg",
+    "pais": "Suecia",
+    "lat": 56.0460,
+    "lng": 12.7140,
+    "mundiales_albergados": [1958]
+  },
+  {
+    "nombre": "Estadio Nacional de Chile",
+    "ciudad": "Santiago",
+    "pais": "Chile",
+    "lat": -33.4727,
+    "lng": -70.6625,
+    "mundiales_albergados": [1962]
+  },
+  {
+    "nombre": "Estadio Sausalito",
+    "ciudad": "Viña del Mar",
+    "pais": "Chile",
+    "lat": -33.0076,
+    "lng": -71.5369,
+    "mundiales_albergados": [1962]
+  },
+  {
+    "nombre": "Estadio Braden Copper Co.",
+    "ciudad": "Rancagua",
+    "pais": "Chile",
+    "lat": -34.1678,
+    "lng": -70.7300,
+    "mundiales_albergados": [1962]
+  },
+  {
+    "nombre": "Estadio Carlos Dittborn",
+    "ciudad": "Arica",
+    "pais": "Chile",
+    "lat": -18.4770,
+    "lng": -70.3015,
+    "mundiales_albergados": [1962]
+  },
+  {
+    "nombre": "Wembley Stadium (original)",
+    "ciudad": "Londres",
+    "pais": "Inglaterra",
+    "lat": 51.5560,
+    "lng": -0.2796,
+    "mundiales_albergados": [1966],
+    "notas": "Demolido. Reemplazado por el nuevo Wembley."
+  },
+  {
+    "nombre": "Goodison Park",
+    "ciudad": "Liverpool",
+    "pais": "Inglaterra",
+    "lat": 53.4388,
+    "lng": -2.9663,
+    "mundiales_albergados": [1966]
+  },
+  {
+    "nombre": "Old Trafford",
+    "ciudad": "Mánchester",
+    "pais": "Inglaterra",
+    "lat": 53.4631,
+    "lng": -2.2913,
+    "mundiales_albergados": [1966]
+  },
+  {
+    "nombre": "Hillsborough Stadium",
+    "ciudad": "Sheffield",
+    "pais": "Inglaterra",
+    "lat": 53.4116,
+    "lng": -1.4925,
+    "mundiales_albergados": [1966]
+  },
+  {
+    "nombre": "Villa Park",
+    "ciudad": "Birmingham",
+    "pais": "Inglaterra",
+    "lat": 52.5090,
+    "lng": -1.8848,
+    "mundiales_albergados": [1966]
+  },
+  {
+    "nombre": "Ayresome Park (demolido)",
+    "ciudad": "Middlesbrough",
+    "pais": "Inglaterra",
+    "lat": 54.5686,
+    "lng": -1.2382,
+    "mundiales_albergados": [1966],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "Roker Park (demolido)",
+    "ciudad": "Sunderland",
+    "pais": "Inglaterra",
+    "lat": 54.9255,
+    "lng": -1.3789,
+    "mundiales_albergados": [1966],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "White City Stadium (demolido)",
+    "ciudad": "Londres",
+    "pais": "Inglaterra",
+    "lat": 51.5113,
+    "lng": -0.2248,
+    "mundiales_albergados": [1966],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "Estadio Azteca",
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "lat": 19.3027,
+    "lng": -99.1504,
+    "mundiales_albergados": [1970, 1986, 2026]
+  },
+  {
+    "nombre": "Estadio Jalisco",
+    "ciudad": "Guadalajara",
+    "pais": "México",
+    "lat": 20.7027,
+    "lng": -103.3444,
+    "mundiales_albergados": [1970, 1986]
+  },
+  {
+    "nombre": "Estadio Cuauhtémoc",
+    "ciudad": "Puebla",
+    "pais": "México",
+    "lat": 19.0620,
+    "lng": -98.1764,
+    "mundiales_albergados": [1970, 1986]
+  },
+  {
+    "nombre": "Estadio León",
+    "ciudad": "León",
+    "pais": "México",
+    "lat": 21.0964,
+    "lng": -101.6669,
+    "mundiales_albergados": [1970, 1986]
+  },
+  {
+    "nombre": "Estadio Olímpico Universitario",
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "lat": 19.3323,
+    "lng": -99.1866,
+    "mundiales_albergados": [1970]
+  },
+  {
+    "nombre": "Estadio Neza 86",
+    "ciudad": "Nezahualcóyotl",
+    "pais": "México",
+    "lat": 19.4180,
+    "lng": -99.0140,
+    "mundiales_albergados": [1986]
+  },
+  {
+    "nombre": "Estadio La Corregidora",
+    "ciudad": "Querétaro",
+    "pais": "México",
+    "lat": 20.5750,
+    "lng": -100.3870,
+    "mundiales_albergados": [1986]
+  },
+  {
+    "nombre": "Estadio Tecnológico (demolido)",
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "lat": 25.6517,
+    "lng": -100.2889,
+    "mundiales_albergados": [1986],
+    "notas": "Demolido. Ubicación aproximada."
+  },
+  {
+    "nombre": "Estadio Universitario (Monterrey)",
+    "ciudad": "Monterrey",
+    "pais": "México",
+    "lat": 25.7228,
+    "lng": -100.3131,
+    "mundiales_albergados": [1986]
+  },
+  {
+    "nombre": "Estadio Luis de la Fuente (antes Estadio Veracruz)",
+    "ciudad": "Veracruz",
+    "pais": "México",
+    "lat": 19.1678,
+    "lng": -96.1175,
+    "mundiales_albergados": [1986]
+  },
+  {
+    "nombre": "Estadio de la Ciudad de los Deportes (antes Estadio Azul)",
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "lat": 19.3879,
+    "lng": -99.1691,
+    "mundiales_albergados": [1986]
+  },
+  {
+    "nombre": "Olympiastadion (Múnich)",
+    "ciudad": "Múnich",
+    "pais": "Alemania",
+    "lat": 48.1731,
+    "lng": 11.5466,
+    "mundiales_albergados": [1974]
+  },
+  {
+    "nombre": "Volksparkstadion",
+    "ciudad": "Hamburgo",
+    "pais": "Alemania",
+    "lat": 53.5852,
+    "lng": 9.8983,
+    "mundiales_albergados": [1974, 2006]
+  },
+  {
+    "nombre": "Waldstadion (ahora Deutsche Bank Park)",
+    "ciudad": "Fráncfort del Meno",
+    "pais": "Alemania",
+    "lat": 50.0683,
+    "lng": 8.6475,
+    "mundiales_albergados": [1974, 2006]
+  },
+  {
+    "nombre": "Rheinstadion (demolido)",
+    "ciudad": "Düsseldorf",
+    "pais": "Alemania",
+    "lat": 51.2619,
+    "lng": 6.7492,
+    "mundiales_albergados": [1974],
+    "notas": "Demolido. Reemplazado por Merkur Spiel-Arena."
+  },
+  {
+    "nombre": "Parkstadion (demolido)",
+    "ciudad": "Gelsenkirchen",
+    "pais": "Alemania",
+    "lat": 51.5540,
+    "lng": 7.0420,
+    "mundiales_albergados": [1974],
+    "notas": "Demolido. Reemplazado por Veltins-Arena."
+  },
+  {
+    "nombre": "Westfalenstadion (Signal Iduna Park)",
+    "ciudad": "Dortmund",
+    "pais": "Alemania",
+    "lat": 51.4925,
+    "lng": 7.4518,
+    "mundiales_albergados": [1974, 2006]
+  },
+  {
+    "nombre": "Olympiastadion (Berlín)",
+    "ciudad": "Berlín",
+    "pais": "Alemania",
+    "lat": 52.5145,
+    "lng": 13.3887,
+    "mundiales_albergados": [1974, 2006]
+  },
+  {
+    "nombre": "Niedersachsenstadion (HDI-Arena)",
+    "ciudad": "Hanóver",
+    "pais": "Alemania",
+    "lat": 52.3592,
+    "lng": 9.7297,
+    "mundiales_albergados": [1974, 2006]
+  },
+  {
+    "nombre": "Müngersdorfer Stadion (RheinEnergieStadion)",
+    "ciudad": "Colonia",
+    "pais": "Alemania",
+    "lat": 50.9339,
+    "lng": 6.8753,
+    "mundiales_albergados": [1974, 2006]
+  },
+  {
+    "nombre": "Neckarstadion (MHPArena)",
+    "ciudad": "Stuttgart",
+    "pais": "Alemania",
+    "lat": 48.7915,
+    "lng": 9.2312,
+    "mundiales_albergados": [1974, 2006]
+  },
+  {
+    "nombre": "Estadio Monumental (River Plate)",
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "lat": -34.5458,
+    "lng": -58.4485,
+    "mundiales_albergados": [1978]
+  },
+  {
+    "nombre": "Estadio Gigante de Arroyito",
+    "ciudad": "Rosario",
+    "pais": "Argentina",
+    "lat": -32.9150,
+    "lng": -60.6720,
+    "mundiales_albergados": [1978]
+  },
+  {
+    "nombre": "Estadio Ciudad de Mendoza",
+    "ciudad": "Mendoza",
+    "pais": "Argentina",
+    "lat": -32.8931,
+    "lng": -68.8781,
+    "mundiales_albergados": [1978]
+  },
+  {
+    "nombre": "Estadio José Amalfitani",
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "lat": -34.6358,
+    "lng": -58.5204,
+    "mundiales_albergados": [1978]
+  },
+  {
+    "nombre": "Estadio Olímpico de Córdoba",
+    "ciudad": "Córdoba",
+    "pais": "Argentina",
+    "lat": -31.3967,
+    "lng": -64.2405,
+    "mundiales_albergados": [1978]
+  },
+  {
+    "nombre": "Estadio Gigante de Arroyito",
+    "ciudad": "Rosario",
+    "pais": "Argentina",
+    "lat": -32.9150,
+    "lng": -60.6720,
+    "mundiales_albergados": [1978]
+  },
+  {
+    "nombre": "Estadio General San Martín",
+    "ciudad": "Mar del Plata",
+    "pais": "Argentina",
+    "lat": -38.0076,
+    "lng": -57.5750,
+    "mundiales_albergados": [1978]
+  },
+  {
+    "nombre": "Estadio Rico Pérez",
+    "ciudad": "Alicante",
+    "pais": "España",
+    "lat": 38.3589,
+    "lng": -0.4906,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Estadio Ramón Sánchez Pizjuán",
+    "ciudad": "Sevilla",
+    "pais": "España",
+    "lat": 37.3840,
+    "lng": -5.9723,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Estadio Vicente Calderón (demolido)",
+    "ciudad": "Madrid",
+    "pais": "España",
+    "lat": 40.3957,
+    "lng": -3.7275,
+    "mundiales_albergados": [1982],
+    "notas": "Demolido."
+  },
+  {
+    "nombre": "Estadio de Sarrià (demolido)",
+    "ciudad": "Barcelona",
+    "pais": "España",
+    "lat": 41.3850,
+    "lng": 2.1333,
+    "mundiales_albergados": [1982],
+    "notas": "Demolido."
+  },
+  {
+    "nombre": "Estadio Santiago Bernabéu",
+    "ciudad": "Madrid",
+    "pais": "España",
+    "lat": 40.4531,
+    "lng": -3.6883,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Camp Nou",
+    "ciudad": "Barcelona",
+    "pais": "España",
+    "lat": 41.3809,
+    "lng": 2.1228,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "San Mamés (original, demolido)",
+    "ciudad": "Bilbao",
+    "pais": "España",
+    "lat": 43.2647,
+    "lng": -2.9497,
+    "mundiales_albergados": [1982],
+    "notas": "Demolido. Reemplazado por el nuevo San Mamés."
+  },
+  {
+    "nombre": "Estadio Riazor",
+    "ciudad": "La Coruña",
+    "pais": "España",
+    "lat": 43.3715,
+    "lng": -8.4150,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "El Molinón",
+    "ciudad": "Gijón",
+    "pais": "España",
+    "lat": 43.5350,
+    "lng": -5.6360,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Estadio Balaídos",
+    "ciudad": "Vigo",
+    "pais": "España",
+    "lat": 42.2084,
+    "lng": -8.7420,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Estadio La Romareda",
+    "ciudad": "Zaragoza",
+    "pais": "España",
+    "lat": 41.6420,
+    "lng": -0.9000,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Estadio Luis Casanova (Estadio de Mestalla)",
+    "ciudad": "Valencia",
+    "pais": "España",
+    "lat": 39.4746,
+    "lng": -0.3587,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Estadio Carlos Tartiere (original, demolido)",
+    "ciudad": "Oviedo",
+    "pais": "España",
+    "lat": 43.3600,
+    "lng": -5.8750,
+    "mundiales_albergados": [1982],
+    "notas": "Demolido. Nuevo estadio en otra ubicación."
+  },
+  {
+    "nombre": "Estadio José Zorrilla",
+    "ciudad": "Valladolid",
+    "pais": "España",
+    "lat": 41.6437,
+    "lng": -4.7578,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Estadio Manuel Martínez Valero",
+    "ciudad": "Elche",
+    "pais": "España",
+    "lat": 38.2570,
+    "lng": -0.7027,
+    "mundiales_albergados": [1982]
+  },
+  {
+    "nombre": "Rose Bowl",
+    "ciudad": "Pasadena, California",
+    "pais": "Estados Unidos",
+    "lat": 34.1614,
+    "lng": -118.1675,
+    "mundiales_albergados": [1994]
+  },
+  {
+    "nombre": "Stanford Stadium",
+    "ciudad": "Stanford, California",
+    "pais": "Estados Unidos",
+    "lat": 37.4338,
+    "lng": -122.1603,
+    "mundiales_albergados": [1994],
+    "notas": "Demolido y reconstruido en la misma ubicación."
+  },
+  {
+    "nombre": "Foxboro Stadium (demolido)",
+    "ciudad": "Foxborough, Massachusetts",
+    "pais": "Estados Unidos",
+    "lat": 42.0678,
+    "lng": -71.2678,
+    "mundiales_albergados": [1994],
+    "notas": "Demolido. Reemplazado por Gillette Stadium."
+  },
+  {
+    "nombre": "Giants Stadium (demolido)",
+    "ciudad": "East Rutherford, Nueva Jersey",
+    "pais": "Estados Unidos",
+    "lat": 40.8130,
+    "lng": -74.0744,
+    "mundiales_albergados": [1994],
+    "notas": "Demolido. Reemplazado por MetLife Stadium."
+  },
+  {
+    "nombre": "Soldier Field",
+    "ciudad": "Chicago, Illinois",
+    "pais": "Estados Unidos",
+    "lat": 41.8623,
+    "lng": -87.6167,
+    "mundiales_albergados": [1994]
+  },
+  {
+    "nombre": "Cotton Bowl",
+    "ciudad": "Dallas, Texas",
+    "pais": "Estados Unidos",
+    "lat": 32.7767,
+    "lng": -96.7578,
+    "mundiales_albergados": [1994]
+  },
+  {
+    "nombre": "Citrus Bowl (Camping World Stadium)",
+    "ciudad": "Orlando, Florida",
+    "pais": "Estados Unidos",
+    "lat": 28.5391,
+    "lng": -81.4087,
+    "mundiales_albergados": [1994]
+  },
+  {
+    "nombre": "Pontiac Silverdome (demolido)",
+    "ciudad": "Pontiac, Míchigan",
+    "pais": "Estados Unidos",
+    "lat": 42.6253,
+    "lng": -83.4077,
+    "mundiales_albergados": [1994],
+    "notas": "Demolido."
+  },
+  {
+    "nombre": "Robert F. Kennedy Memorial Stadium",
+    "ciudad": "Washington D. C.",
+    "pais": "Estados Unidos",
+    "lat": 38.8982,
+    "lng": -76.9723,
+    "mundiales_albergados": [1994]
+  },
+  {
+    "nombre": "Stade de France",
+    "ciudad": "Saint-Denis (París)",
+    "pais": "Francia",
+    "lat": 48.9244,
+    "lng": 2.3601,
+    "mundiales_albergados": [1998]
+  },
+  {
+    "nombre": "Stade de Bordeaux (Matmut Atlantique)",
+    "ciudad": "Burdeos",
+    "pais": "Francia",
+    "lat": 44.8989,
+    "lng": -0.5562,
+    "mundiales_albergados": [1998]
+  },
+  {
+    "nombre": "Stade Félix Bollaert-Delelis",
+    "ciudad": "Lens",
+    "pais": "Francia",
+    "lat": 50.4322,
+    "lng": 2.8094,
+    "mundiales_albergados": [1998]
+  },
+  {
+    "nombre": "Stade Gerland",
+    "ciudad": "Lyon",
+    "pais": "Francia",
+    "lat": 45.7289,
+    "lng": 4.8217,
+    "mundiales_albergados": [1998]
+  },
+  {
+    "nombre": "Stade de la Beaujoire",
+    "ciudad": "Nantes",
+    "pais": "Francia",
+    "lat": 47.2642,
+    "lng": -1.5244,
+    "mundiales_albergados": [1998]
+  },
+  {
+    "nombre": "Stade de la Mosson",
+    "ciudad": "Montpellier",
+    "pais": "Francia",
+    "lat": 43.6133,
+    "lng": 3.8247,
+    "mundiales_albergados": [1998]
+  },
+  {
+    "nombre": "Stade Geoffroy-Guichard",
+    "ciudad": "Saint-Étienne",
+    "pais": "Francia",
+    "lat": 45.4403,
+    "lng": 4.3908,
+    "mundiales_albergados": [1998]
+  },
+  {
+    "nombre": "Stadium de Toulouse",
+    "ciudad": "Toulouse",
+    "pais": "Francia",
+    "lat": 43.5855,
+    "lng": 1.4347,
+    "mundiales_albergados": [1998]
+  },
+  {
+    "nombre": "Estadio Internacional de Yokohama",
+    "ciudad": "Yokohama",
+    "pais": "Japón",
+    "lat": 35.5097,
+    "lng": 139.6053,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Saitama 2002",
+    "ciudad": "Saitama",
+    "pais": "Japón",
+    "lat": 35.8972,
+    "lng": 139.7169,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Ecopa de Shizuoka",
+    "ciudad": "Fukuroi",
+    "pais": "Japón",
+    "lat": 34.7570,
+    "lng": 137.9400,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Nagai (Estadio Yanmar)",
+    "ciudad": "Osaka",
+    "pais": "Japón",
+    "lat": 34.6094,
+    "lng": 135.5144,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio de Miyagi",
+    "ciudad": "Rifu",
+    "pais": "Japón",
+    "lat": 38.3580,
+    "lng": 140.9700,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio del Gran Cisne de Niigata",
+    "ciudad": "Niigata",
+    "pais": "Japón",
+    "lat": 37.8920,
+    "lng": 139.0620,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Kashima Soccer",
+    "ciudad": "Kashima",
+    "pais": "Japón",
+    "lat": 35.9080,
+    "lng": 140.6380,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Sapporo Dome",
+    "ciudad": "Sapporo",
+    "pais": "Japón",
+    "lat": 43.0163,
+    "lng": 141.4116,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Kobe Wing Stadium",
+    "ciudad": "Kobe",
+    "pais": "Japón",
+    "lat": 34.6534,
+    "lng": 135.1584,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Oita Bank Dome",
+    "ciudad": "Ōita",
+    "pais": "Japón",
+    "lat": 33.2040,
+    "lng": 131.6880,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Gwangju World Cup",
+    "ciudad": "Gwangju",
+    "pais": "Corea del Sur",
+    "lat": 35.1230,
+    "lng": 126.8770,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Daegu World Cup",
+    "ciudad": "Daegu",
+    "pais": "Corea del Sur",
+    "lat": 35.8670,
+    "lng": 128.7420,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Mundialista de Seúl",
+    "ciudad": "Seúl",
+    "pais": "Corea del Sur",
+    "lat": 37.5683,
+    "lng": 126.8972,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Mundialista de Busan Asiad",
+    "ciudad": "Busan",
+    "pais": "Corea del Sur",
+    "lat": 35.1925,
+    "lng": 129.0600,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Mundialista de Suwon",
+    "ciudad": "Suwon",
+    "pais": "Corea del Sur",
+    "lat": 37.2870,
+    "lng": 127.0270,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Mundialista de Ulsan Munsu",
+    "ciudad": "Ulsan",
+    "pais": "Corea del Sur",
+    "lat": 35.5360,
+    "lng": 129.2640,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Mundialista de Daejeon",
+    "ciudad": "Daejeon",
+    "pais": "Corea del Sur",
+    "lat": 36.3533,
+    "lng": 127.3883,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Mundialista de Jeonju",
+    "ciudad": "Jeonju",
+    "pais": "Corea del Sur",
+    "lat": 35.8560,
+    "lng": 127.0540,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Estadio Mundialista de Jeju",
+    "ciudad": "Seogwipo",
+    "pais": "Corea del Sur",
+    "lat": 33.2500,
+    "lng": 126.5160,
+    "mundiales_albergados": [2002]
+  },
+  {
+    "nombre": "Allianz Arena",
+    "ciudad": "Múnich",
+    "pais": "Alemania",
+    "lat": 48.2188,
+    "lng": 11.6247,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "Signal Iduna Park",
+    "ciudad": "Dortmund",
+    "pais": "Alemania",
+    "lat": 51.4925,
+    "lng": 7.4518,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "Veltins-Arena",
+    "ciudad": "Gelsenkirchen",
+    "pais": "Alemania",
+    "lat": 51.5546,
+    "lng": 7.0407,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "Red Bull Arena (Leipzig)",
+    "ciudad": "Leipzig",
+    "pais": "Alemania",
+    "lat": 51.3468,
+    "lng": 12.3530,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "Frankenstadion (Max-Morlock-Stadion)",
+    "ciudad": "Núremberg",
+    "pais": "Alemania",
+    "lat": 49.4267,
+    "lng": 11.1119,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "Fritz-Walter-Stadion",
+    "ciudad": "Kaiserslautern",
+    "pais": "Alemania",
+    "lat": 49.4411,
+    "lng": 7.7656,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "AOL Arena (Volksparkstadion)",
+    "ciudad": "Hamburgo",
+    "pais": "Alemania",
+    "lat": 53.5852,
+    "lng": 9.8983,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "RheinEnergieStadion",
+    "ciudad": "Colonia",
+    "pais": "Alemania",
+    "lat": 50.9339,
+    "lng": 6.8753,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "Hannover Arena (HDI-Arena)",
+    "ciudad": "Hanóver",
+    "pais": "Alemania",
+    "lat": 52.3592,
+    "lng": 9.7297,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "Gottlieb-Daimler-Stadion (MHPArena)",
+    "ciudad": "Stuttgart",
+    "pais": "Alemania",
+    "lat": 48.7915,
+    "lng": 9.2312,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "FIFA World Cup Stadium (Frankfurt)",
+    "ciudad": "Fráncfort del Meno",
+    "pais": "Alemania",
+    "lat": 50.0683,
+    "lng": 8.6475,
+    "mundiales_albergados": [2006]
+  },
+  {
+    "nombre": "Soccer City",
+    "ciudad": "Johannesburgo",
+    "pais": "Sudáfrica",
+    "lat": -26.2023,
+    "lng": 28.0069,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Moses Mabhida Stadium",
+    "ciudad": "Durban",
+    "pais": "Sudáfrica",
+    "lat": -29.8576,
+    "lng": 31.0292,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Cape Town Stadium",
+    "ciudad": "Ciudad del Cabo",
+    "pais": "Sudáfrica",
+    "lat": -33.9048,
+    "lng": 18.4116,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Ellis Park Stadium",
+    "ciudad": "Johannesburgo",
+    "pais": "Sudáfrica",
+    "lat": -26.1969,
+    "lng": 28.0536,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Loftus Versfeld Stadium",
+    "ciudad": "Pretoria",
+    "pais": "Sudáfrica",
+    "lat": -25.7530,
+    "lng": 28.2250,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Nelson Mandela Bay Stadium",
+    "ciudad": "Port Elizabeth",
+    "pais": "Sudáfrica",
+    "lat": -33.9392,
+    "lng": 25.6022,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Peter Mokaba Stadium",
+    "ciudad": "Polokwane",
+    "pais": "Sudáfrica",
+    "lat": -23.9006,
+    "lng": 29.4678,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Mbombela Stadium",
+    "ciudad": "Nelspruit",
+    "pais": "Sudáfrica",
+    "lat": -25.4740,
+    "lng": 30.9300,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Free State Stadium",
+    "ciudad": "Bloemfontein",
+    "pais": "Sudáfrica",
+    "lat": -29.1170,
+    "lng": 26.2160,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Royal Bafokeng Stadium",
+    "ciudad": "Rustenburg",
+    "pais": "Sudáfrica",
+    "lat": -25.6310,
+    "lng": 27.2340,
+    "mundiales_albergados": [2010]
+  },
+  {
+    "nombre": "Estadio Mineirão",
+    "ciudad": "Belo Horizonte",
+    "pais": "Brasil",
+    "lat": -19.8660,
+    "lng": -43.9700,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Estádio Nacional Mané Garrincha",
+    "ciudad": "Brasilia",
+    "pais": "Brasil",
+    "lat": -15.7836,
+    "lng": -47.8996,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Arena Castelão",
+    "ciudad": "Fortaleza",
+    "pais": "Brasil",
+    "lat": -3.8078,
+    "lng": -38.5085,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Arena da Amazônia",
+    "ciudad": "Manaus",
+    "pais": "Brasil",
+    "lat": -3.0760,
+    "lng": -60.0245,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Arena das Dunas",
+    "ciudad": "Natal",
+    "pais": "Brasil",
+    "lat": -5.8270,
+    "lng": -35.2080,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Estádio Beira-Rio",
+    "ciudad": "Porto Alegre",
+    "pais": "Brasil",
+    "lat": -30.0650,
+    "lng": -51.2330,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Arena Pernambuco",
+    "ciudad": "São Lourenço da Mata (Recife)",
+    "pais": "Brasil",
+    "lat": -8.0400,
+    "lng": -35.0150,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Arena Fonte Nova",
+    "ciudad": "Salvador",
+    "pais": "Brasil",
+    "lat": -12.9780,
+    "lng": -38.5030,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Arena Corinthians",
+    "ciudad": "São Paulo",
+    "pais": "Brasil",
+    "lat": -23.5455,
+    "lng": -46.4741,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Arena da Baixada",
+    "ciudad": "Curitiba",
+    "pais": "Brasil",
+    "lat": -25.4480,
+    "lng": -49.2760,
+    "mundiales_albergados": [2014]
+  },
+  {
+    "nombre": "Estadio Luzhniki",
+    "ciudad": "Moscú",
+    "pais": "Rusia",
+    "lat": 55.7158,
+    "lng": 37.5536,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Estadio Krestovsky (Saint Petersburg Stadium)",
+    "ciudad": "San Petersburgo",
+    "pais": "Rusia",
+    "lat": 59.9729,
+    "lng": 30.2212,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Estadio Olímpico de Fisht",
+    "ciudad": "Sochi",
+    "pais": "Rusia",
+    "lat": 43.4000,
+    "lng": 39.9570,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Volgograd Arena",
+    "ciudad": "Volgogrado",
+    "pais": "Rusia",
+    "lat": 48.7340,
+    "lng": 44.5370,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Rostov Arena",
+    "ciudad": "Rostov del Don",
+    "pais": "Rusia",
+    "lat": 47.2090,
+    "lng": 39.7360,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Estadio Nizhni Nóvgorod",
+    "ciudad": "Nizhni Nóvgorod",
+    "pais": "Rusia",
+    "lat": 56.3370,
+    "lng": 43.9630,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Kazan Arena",
+    "ciudad": "Kazán",
+    "pais": "Rusia",
+    "lat": 55.8200,
+    "lng": 49.1600,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Mordovia Arena",
+    "ciudad": "Saransk",
+    "pais": "Rusia",
+    "lat": 54.1800,
+    "lng": 45.1800,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Samara Arena",
+    "ciudad": "Samara",
+    "pais": "Rusia",
+    "lat": 53.2770,
+    "lng": 50.1840,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Estadio del Baltika (Kaliningrado)",
+    "ciudad": "Kaliningrado",
+    "pais": "Rusia",
+    "lat": 54.7070,
+    "lng": 20.5360,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Ekaterinburg Arena",
+    "ciudad": "Ekaterimburgo",
+    "pais": "Rusia",
+    "lat": 56.8320,
+    "lng": 60.5780,
+    "mundiales_albergados": [2018]
+  },
+  {
+    "nombre": "Estadio de Lusail",
+    "ciudad": "Lusail",
+    "pais": "Catar",
+    "lat": 25.4215,
+    "lng": 51.4913,
+    "mundiales_albergados": [2022]
+  },
+  {
+    "nombre": "Estadio Al Bayt",
+    "ciudad": "Al Khor",
+    "pais": "Catar",
+    "lat": 25.6601,
+    "lng": 51.5732,
+    "mundiales_albergados": [2022]
+  },
+  {
+    "nombre": "Estadio 974",
+    "ciudad": "Doha",
+    "pais": "Catar",
+    "lat": 25.2890,
+    "lng": 51.5540,
+    "mundiales_albergados": [2022]
+  },
+  {
+    "nombre": "Estadio Al Thumama",
+    "ciudad": "Doha",
+    "pais": "Catar",
+    "lat": 25.2230,
+    "lng": 51.5230,
+    "mundiales_albergados": [2022]
+  },
+  {
+    "nombre": "Estadio Ciudad de la Educación",
+    "ciudad": "Rayán",
+    "pais": "Catar",
+    "lat": 25.3070,
+    "lng": 51.4250,
+    "mundiales_albergados": [2022]
+  },
+  {
+    "nombre": "Estadio Ahmad bin Ali",
+    "ciudad": "Rayán",
+    "pais": "Catar",
+    "lat": 25.3360,
+    "lng": 51.3420,
+    "mundiales_albergados": [2022]
+  },
+  {
+    "nombre": "Estadio Al Janoub",
+    "ciudad": "Al Wakrah",
+    "pais": "Catar",
+    "lat": 25.1630,
+    "lng": 51.5640,
+    "mundiales_albergados": [2022]
+  },
+  {
+    "nombre": "Estadio Internacional Khalifa",
+    "ciudad": "Doha",
+    "pais": "Catar",
+    "lat": 25.2637,
+    "lng": 51.4484,
+    "mundiales_albergados": [2022]
+  }
+]
