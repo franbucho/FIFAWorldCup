@@ -1,0 +1,191 @@
+[
+  {
+    "lat": 41.8337,
+    "lng": 12.4676,
+    "nombre": "El gol fantasma (1966)",
+    "fecha": "1966-07-30",
+    "tipo": "Curiosidad",
+    "curiosidad": "El gol fantasma de Wembley",
+    "descripcion": "En la final de 1966, Geoff Hurst anotó un polémico gol que rebotó en el travesaño y cuya validez aún se debate. Fue el primer (y único) hat-trick en una final mundialista."
+  },
+  {
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "nombre": "Primer Mundial femenino (1991)",
+    "fecha": "1991-11-30",
+    "tipo": "Histórico",
+    "curiosidad": "El inicio del fútbol femenino",
+    "descripcion": "Estados Unidos ganó el primer Mundial Femenino organizado por la FIFA en China 1991, con Michelle Akers como máxima goleadora."
+  },
+  {
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "nombre": "Primer gol olímpico (1900)",
+    "fecha": "1900-05-20",
+    "tipo": "Histórico",
+    "curiosidad": "El primer gol olímpico",
+    "descripcion": "En los Juegos Olímpicos de París 1900 se marcó el primer gol olímpico registrado en un torneo internacional, aunque no era un Mundial oficial."
+  },
+  {
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "nombre": "La Antorcha de Gas (1978)",
+    "fecha": "1978-06-21",
+    "tipo": "Curiosidad",
+    "curiosidad": "El partido bajo la niebla artificial",
+    "descripcion": "En el Argentina-Holanda de 1978, se usaron bengalas y antorchas de gas para disipar la niebla, creando una escena surrealista en el Monumental."
+  },
+  {
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "nombre": "Corea del Sur sorprende (2002)",
+    "fecha": "2002-06-18",
+    "tipo": "Histórico",
+    "curiosidad": "El milagro coreano",
+    "descripcion": "Corea del Sur, como coanfitrión, llegó a semifinales eliminando a potencias como Italia y España con polémicos arbitrajes."
+  },
+  {
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "nombre": "La Furia Roja (2010)",
+    "fecha": "2010-07-11",
+    "tipo": "Histórico",
+    "curiosidad": "España gana su primer Mundial",
+    "descripcion": "Con gol de Iniesta en la prórroga, España venció 1-0 a Holanda en Sudáfrica 2010, coronando su era dorada."
+  },
+  {
+    "lat": 45.0703,
+    "lng": 7.6869,
+    "nombre": "El autogol de Escobar (1994)",
+    "fecha": "1994-06-22",
+    "tipo": "Histórico",
+    "curiosidad": "La tragedia de Andrés Escobar",
+    "descripcion": "El defensa colombiano marcó un autogol contra EE.UU. que contribuyó a la eliminación. Días después fue asesinado en Medellín, presuntamente por el resultado."
+  },
+  {
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "nombre": "Corea del Norte en Inglaterra (1966)",
+    "fecha": "1966-07-23",
+    "tipo": "Curiosidad",
+    "curiosidad": "El equipo desaparecido",
+    "descripcion": "Tras sorprender al vencer a Italia, los norcoreanos se alojaron en Middlesbrough y ganaron el cariño local. Al regresar a su país, desaparecieron de la vida pública por años."
+  },
+  {
+    "lat": 23.6345,
+    "lng": -102.5528,
+    "nombre": "El partido del siglo (1970)",
+    "fecha": "1970-06-17",
+    "tipo": "Histórico",
+    "curiosidad": "Italia 4-3 Alemania Occidental",
+    "descripcion": "Considerado uno de los mejores partidos de la historia, con 5 goles en la prórroga y heroísmo de Beckenbauer jugando con el brazo en cabestrillo."
+  },
+  {
+    "lat": -15.8267,
+    "lng": -47.9218,
+    "nombre": "El 7-1 de Alemania (2014)",
+    "fecha": "2014-07-08",
+    "tipo": "Histórico",
+    "curiosidad": "La Mineirazo",
+    "descripcion": "Alemania humilló 7-1 a Brasil en semifinales del Mundial que organizaban, el peor resultado en la historia de la selección brasileña."
+  },
+  {
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "nombre": "Primer Mundial con TV a color (1970)",
+    "fecha": "1970-05-31",
+    "tipo": "Curiosidad",
+    "curiosidad": "El Mundial en technicolor",
+    "descripcion": "México 1970 fue el primer Mundial transmitido a color por televisión, mostrando el amarillo vibrante del Brasil de Pelé al mundo."
+  },
+  {
+    "lat": 48.1351,
+    "lng": 11.5820,
+    "nombre": "El baile de Leao (1974)",
+    "fecha": "1974-06-26",
+    "tipo": "Curiosidad",
+    "curiosidad": "El portero bailarín",
+    "descripcion": "El arquero brasileño Leao hizo una danza improvisada durante el himno nacional antes del partido contra Argentina, causando controversia."
+  },
+  {
+    "lat": -22.9122,
+    "lng": -43.2302,
+    "nombre": "Maracanazo (1950)",
+    "fecha": "1950-07-16",
+    "tipo": "Curiosidad",
+    "curiosidad": "El Maracanazo",
+    "descripcion": "Uruguay le ganó a Brasil 2-1 en la final del Mundial de 1950 en el Estadio Maracaná, contra todo pronóstico. Es considerada una de las mayores sorpresas en la historia del fútbol."
+  },
+  {
+    "lat": 19.4042,
+    "lng": -99.1862,
+    "nombre": "Mano de Dios y Gol del Siglo (1986)",
+    "fecha": "1986-06-22",
+    "tipo": "Curiosidad",
+    "curiosidad": "Mano de Dios y Gol del Siglo",
+    "descripcion": "Maradona anotó dos de los goles más famosos de la historia contra Inglaterra: la 'Mano de Dios' y el 'Gol del Siglo' en cuartos de final del Mundial México 1986."
+  },
+  {
+    "lat": 52.5145,
+    "lng": 13.3887,
+    "nombre": "Cabezazo de Zidane (2006)",
+    "fecha": "2006-07-09",
+    "tipo": "Curiosidad",
+    "curiosidad": "El Cabezazo de Zidane",
+    "descripcion": "En su último partido profesional, Zinedine Zidane fue expulsado por un cabezazo a Marco Materazzi en la final del Mundial de 2006."
+  },
+  {
+    "lat": -26.2023,
+    "lng": 28.0069,
+    "nombre": "Vuvuzelas (2010)",
+    "fecha": "2010-06-11",
+    "tipo": "Curiosidad",
+    "curiosidad": "El Sonido de las Vuvuzelas",
+    "descripcion": "Sudáfrica 2010 es recordado por el zumbido constante de las vuvuzelas, trompetas plásticas típicas del país anfitrión."
+  },
+  {
+    "lat": 51.5558,
+    "lng": -0.1084,
+    "nombre": "Pickles el perro (1966)",
+    "fecha": "1966-03-27",
+    "tipo": "Curiosidad",
+    "curiosidad": "El perro Pickles salvó el Mundial",
+    "descripcion": "Pickles encontró el trofeo Jules Rimet robado días antes del Mundial de Inglaterra 1966, convirtiéndose en un héroe nacional."
+  },
+  {
+    "lat": 47.3667,
+    "lng": 8.5500,
+    "nombre": "Milagro de Berna (1954)",
+    "fecha": "1954-07-04",
+    "tipo": "Curiosidad",
+    "curiosidad": "El Milagro de Berna",
+    "descripcion": "Alemania Occidental venció sorpresivamente a la poderosa Hungría 3-2 en la final de 1954, considerada una hazaña histórica."
+  },
+  {
+    "lat": -33.9258,
+    "lng": 18.4232,
+    "nombre": "No gol de Inglaterra (2010)",
+    "fecha": "2010-06-27",
+    "tipo": "Curiosidad",
+    "curiosidad": "El 'no gol' que cambió la historia",
+    "descripcion": "A Inglaterra no le validaron un gol claro ante Alemania en octavos de Sudáfrica 2010. Fue decisivo para impulsar la implementación de la tecnología de línea de gol."
+  },
+  {
+    "lat": 55.7512,
+    "lng": 37.6184,
+    "nombre": "VAR por primera vez (2018)",
+    "fecha": "2018-06-16",
+    "tipo": "Curiosidad",
+    "curiosidad": "El VAR llega al Mundial",
+    "descripcion": "Por primera vez en la historia, se usó el sistema de asistencia por videoarbitraje (VAR) en un Mundial, durante Rusia 2018."
+  },
+  {
+    "lat": 25.2637,
+    "lng": 51.4484,
+    "nombre": "Messi campeón del mundo (2022)",
+    "fecha": "2022-12-18",
+    "tipo": "Curiosidad",
+    "curiosidad": "Messi levanta la copa",
+    "descripcion": "Argentina venció a Francia en una final épica. Messi levantó la copa en el Estadio de Lusail y coronó su carrera con el Mundial 2022."
+  }
+]
