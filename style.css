@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.header {
+    background-color: #333;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    display: flex; /* Usamos flexbox para alinear el título y el dropdown */
+    flex-direction: column; /* Colocamos en columna para pantallas pequeñas */
+    align-items: center; /* Centramos horizontalmente */
+}
+
+.header h1 {
+    margin: 0 0 10px 0;
+    font-size: 1.8em;
+}
+
+.controls-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espacio entre el label y el select */
+    margin-top: 10px; /* Espacio entre el título y los controles */
+}
+
+.controls-container label {
+    font-size: 1em;
+    color: white;
+}
+
+.dropdown {
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: white;
+    font-size: 1em;
+    cursor: pointer;
+    appearance: none; /* Elimina estilos por defecto del navegador */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23000%22%20d%3D%22M287%2069.9a17.6%2017.6%200%200%200-13.6-6.7H18.9a17.6%2017.6%200%200%200-13.6%206.7c-4.8%206.4-4.2%2015.6%201.2%2021.2l128%20128c6.2%206.2%2016.4%206.2%2022.6%200l128-128c5.4-5.6%206-14.8%201.2-21.2z%22%2F%3E%3C%2Fsvg%3E'); /* Icono de flecha SVG */
+    background-repeat: no-repeat;
+    background-position: right 10px top 50%;
+    background-size: 12px auto;
+    padding-right: 30px; /* Espacio para el icono */
+}
+
+.dropdown:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+}
+
+#map {
+    flex-grow: 1; /* El mapa ocupará el espacio restante */
+    height: calc(100vh - 120px); /* Ajusta la altura del mapa (100vh - altura del header) */
+    width: 100%;
+    margin-top: 0;
+    z-index: 1; /* Asegura que el mapa esté por debajo de otros elementos si es necesario */
+}
+
+/* Estilos para el popup de Leaflet */
+.leaflet-popup-content-wrapper {
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 0.9em;
+}
+
+.leaflet-popup-content h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.leaflet-popup-content p {
+    margin: 0;
+    line-height: 1.4;
+    color: #555;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    .header h1 {
+        font-size: 1.5em;
+    }
+    .controls-container {
+        flex-direction: column; /* Apilar label y select en pantallas pequeñas */
+    }
+    #map {
+        height: calc(100vh - 160px); /* Adjust height for smaller screens if header becomes taller */
+    }
+}
